@@ -6,4 +6,5 @@ export default function FreeAssessment() {
             <div className='btn '>let's do it</div>
         </section>
 </>
-    )}
+    )
+}
