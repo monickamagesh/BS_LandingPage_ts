@@ -43,8 +43,7 @@ export default function Testimonal() {
             height={18.59}
             quality={100}
             // layout='responsive'
-            sizes='(max-width: 767px) 129.10px, 160px'
-    />
+            sizes='(max-width: 767px) 129.10px, 160px'/>
         </div>
     </div>
     </section>
