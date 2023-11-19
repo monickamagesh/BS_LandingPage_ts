@@ -1,7 +1,6 @@
-import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import { InstagramLogo, LinkedinLogo, PinterestLogo, TwitterLogo } from '@phosphor-icons/react';
+import { InstagramLogo, LinkedinLogo, PinterestLogo, TwitterLogo } from '@phosphor-icons/react/dist/ssr';
 
 
 export default function Footer() {
