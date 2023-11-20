@@ -7,7 +7,7 @@ export default function Notfound() {
                 <span>oops...page not found :) </span>
             </div>
             <div className='normal justify-center items-center '>
-                Go Back to <span className='btn p-2'><Link href={''}>HOME</Link>  </span>
+                Go Back to <span className='btn p-2'><Link href={'/'}>HOME</Link>  </span>
             </div>
             
         </main>
