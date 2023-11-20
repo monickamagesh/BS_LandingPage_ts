@@ -2,7 +2,7 @@ import Link from "next/link"
 
 export default function ServicesHero() {
     return (
-        <section className=''>
+        <section className='py-16'>
             <div className='flex flex-col-reverse md:flex-row space-y-8 md:space-y-0 items-center md:justify-between gap-10  md:py-20 py-6 '>
                 <div className='basis-3/5 w-full  items-center '>
                     
